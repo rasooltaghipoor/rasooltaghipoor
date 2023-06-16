@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rasoul Taghipour</h1>
 <h3 align="center">A Teacher and Game Developer from Iran</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasooltaghipoor&theme=onedark" alt="rasooltaghipoor" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasooltaghipoor&theme=chalk&&no-frame=true" alt="rasooltaghipoor" /></a> </p>
 
 - 🔭 I’m currently working on **an online casual game**
 
