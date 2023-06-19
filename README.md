@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **an online casual game**
 
-- 💬 Ask me about **Unity, libGDX and java**
+- 💬 Ask me about **C#, libGDX and java**
 
 - 📫 How to reach me **rasool.taghipoor@gmail.com**
 
