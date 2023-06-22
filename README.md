@@ -4,9 +4,9 @@
 <h3 align="left">Stats (public repos):</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasooltaghipoor&theme=gitdimmed&&no-frame=true" alt="rasooltaghipoor" /></a> </p>
 
-- 🔭 I’m currently working on **an online casual game**
+- 🔭 I’m currently working on **an online casual game (Lord of coins)**
 
-- 💬 Ask me about **C#, libGDX and java**
+- 💬 Ask me about **C#, Flutter, libGDX and Java**
 
 - 📫 How to reach me **rasool.taghipoor@gmail.com**
 
