@@ -19,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasooltaghipoor&show_icons=true&locale=en&layout=compact" alt="rasooltaghipoor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasooltaghipoor&" alt="rasooltaghipoor" /></p>
+
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=rasooltaghipoor&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
