@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **an online casual game (Lord of coins)**
 
-- 💬 Ask me about **C#, Flutter, libGDX and Java**
+- 💬 Ask me about **C#, Flutter, libGDX, Java and Python**
 
 - 📫 How to reach me **rasool.taghipoor@gmail.com**
 
